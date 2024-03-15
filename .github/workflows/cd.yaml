@@ -13,4 +13,4 @@ jobs:
         uses: s4u/setup-maven-action@v1.12.0
 
       - name: version installed
-      - run: mvn -v
+        run: mvn -v
